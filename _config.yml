@@ -1,9 +1,9 @@
 # Setup
-title: Sankalp
-tagline: ML Practitioner
-url: http://sankalp-prabhakar.github.io/
+title: Poole
+tagline: The Jekyll Butler
+url: https://getpoole.com
 paginate: 1
-baseurl: "http://sankalp-prabhakar.github.io/"
+baseurl: "http://sankalp-prabhakar.github.io/poole/"
 permalink: pretty
 
 # Gems
