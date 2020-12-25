@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Sankalp Prabhakar
 description:      'Passionate about using learning methods to solve real-world problems!'
 url:              https://sankalp-prabhakar.github.io
-baseurl:          /
+baseurl:          https://sankalp-prabhakar.github.io
 
 author:
   name:           'Sankalp Prabhakar'
