@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Chen Tessler</title>
+    <link>https://tesslerc.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Chen Tessler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tesslerc.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Reinforcement Learning Works - Now What?</title>
+      <link>https://tesslerc.github.io/posts/drl_works_now_what/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tesslerc.github.io/posts/drl_works_now_what/</guid>
+      <description>It&amp;rsquo;s safe to assume that deep reinforcement learning does indeed work. This is backed by recent trends which have achieved tremendous feats. An important question is — now what? In this post I question certain trends in deep RL research and propose some insights and solutions.</description>
+    </item>
+    
+  </channel>
+</rss>
