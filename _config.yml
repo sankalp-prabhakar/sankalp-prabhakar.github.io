@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Pool
+title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             "http://sankalp-prabhakar.github.io/poole/"
+baseurl:             "https://sankalp-prabhakar.github.io/"
 
 # Assets
 #
