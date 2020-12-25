@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hi, i'm Sankalp!
+title:            Sankalp Prabhakar
 description:      'Passionate about using learning methods to solve real-world problems!'
 url:              https://sankalp-prabhakar.github.io
 baseurl:          /
@@ -18,7 +18,7 @@ author:
 paginate:         1
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
   repo:           https://github.com/sankalp-prabhakar/sankalp-prabhakar.github.io
