@@ -7,7 +7,7 @@ title: About
   Hey there! 👋
 </p>
 
-I'm Sankalp, a Machine Learning Practitioner.
+I'm Sankalp, an applied Machine Learning researcher.
 
 ### What do I do?
 
